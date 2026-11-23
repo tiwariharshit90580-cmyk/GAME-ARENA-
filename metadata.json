@@ -1,0 +1,6 @@
+{
+  "name": "GAME ARENA",
+  "description": "YOUR BATTLE. YOUR ARENA. Download the official GAME ARENA v1.0 Android APK (5.81 MB) for competitive mobile gaming and tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
